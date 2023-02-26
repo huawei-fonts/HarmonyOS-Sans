@@ -1,0 +1,23 @@
+{
+  "name": "harmonyos-sans",
+  "version": "1.0.0",
+  "description": "Huawei HarmonyOS Sans fonts. This NPM package provides you the \"HarmonyOS Sans.zip\" file from Huawei website (https://developer.harmonyos.com/cn/docs/design/des-guides/font-0000001157868583).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobiledesres/HarmonyOS-Sans.git"
+  },
+  "keywords": [
+    "Huawei",
+    "HarmonyOS",
+    "HarmonyOS Sans"
+  ],
+  "author": "mobiledesres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mobiledesres/HarmonyOS-Sans/issues"
+  },
+  "homepage": "https://github.com/mobiledesres/HarmonyOS-Sans#readme",
+  "files": [
+    "HarmonyOS Sans.zip"
+  ]
+}
